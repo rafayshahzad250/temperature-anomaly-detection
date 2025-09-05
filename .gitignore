@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+reports/figures/*
+
+# OS / tooling
+.DS_Store
+.idea/
+.vscode/

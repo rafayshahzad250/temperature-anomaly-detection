@@ -1,0 +1,16 @@
+name: temp-anomaly
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - jupyterlab
+  - ipywidgets
+  - pip
+  - pip:
+      - tqdm
