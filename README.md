@@ -1,6 +1,6 @@
-# Temperature Anomaly Detection (Starter Repo)
+# Temperature Anomaly Detection 
 
-This repository is a hands-on starter for detecting anomalies in temperature sensor data using Python and Jupyter Notebooks.
+This repository is a project for detecting anomalies in temperature sensor data using Python and Jupyter Notebooks.
 
 ## What’s inside
 - **notebooks/**: interactive notebooks to explore data, build baselines, and train models
